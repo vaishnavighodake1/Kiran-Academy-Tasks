@@ -19,6 +19,7 @@ public class Voting {
 
 
 /*
+Output:
 age above 18:
 Enter age: 20
 Eligible for Voting
